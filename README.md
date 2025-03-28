@@ -6,6 +6,14 @@ I also enjoy designing things, bringing both aesthetic and functional elements i
 
 Right now, I'm intersted in learning and exploring <b>video and image manipulation</b> through coding, using technologies like <b>WebGL</b> and <b>OpenCV.</b>
 
+<b>Tech Stack:</b>
+<dl>
+  <dd>- Python (Flask, pandas, Tkinter)</dd>
+  <dd>- JavaScript (React.js, Next.js, Vanilla)</dd>
+  <dd>- HTML</dd>
+  <dd>- CSS</dd>
+</dl>
+
 <!---
 ezraamanoe/ezraamanoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
