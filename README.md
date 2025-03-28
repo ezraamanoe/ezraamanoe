@@ -4,7 +4,7 @@ I have a strong passion for <b>music-based coding</b> and <b>audio software</b>,
 My interests lean toward the artistic side of computer science, where creativity and technology intersect.
 I also enjoy designing things, bringing both aesthetic and functional elements into my work.
 
-Right now, I'm intersted in learning and exploring video and image manipulation through coding, using technologies like WebGL and OpenCV.
+Right now, I'm intersted in learning and exploring <b>video and image manipulation</b> through coding, using technologies like <b>WebGL</b> and <b>OpenCV.</b>
 
 <!---
 ezraamanoe/ezraamanoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
